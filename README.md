@@ -24,6 +24,19 @@ This industrial sensor module is designed for factory automation applications, p
 ## PCB Design
 The PCB layout is optimized to minimize the influence of airflow on sensor measurements. The module is compact, modular, and suitable for various industrial applications.
 
+## PCB Images
+### Front View
+The front side of the PCB features the ESP32C3 Mini, sensor modules, and necessary components for power regulation and communication. 
+![Uploading Endüstriyel Sensör Modülü Front.png…]()
+
+### Back View
+The back side of the PCB includes additional circuit traces, connectors, and protection components. 
+![Endüstriyel Sensör Modülü Front Bottom](https://github.com/user-attachments/assets/d9f711ac-cdbb-4f4a-ac2b-e72f07fcd73b)
+
+### Angled View
+This perspective provides a detailed look at the board's overall design, component placement, and the layout strategy used to optimize performance and durability.
+![Endüstriyel Sensör Modülü Front Cross](https://github.com/user-attachments/assets/f8cb3fd3-2845-4bbd-a1b5-fb6687180567)
+
 ## Getting Started
 ### Hardware Setup
 1. Provide a **9-24V DC** power input via the terminal block.
@@ -45,12 +58,8 @@ The PCB layout is optimized to minimize the influence of airflow on sensor measu
   - **Copper Thickness:** 1oz
   - **Surface Finish:** ENIG
 
-## License
-This project is released under the **MIT License**.
-
 ## Contact
 For any inquiries or contributions, feel free to open an issue or reach out.
 
 ---
 _Designed with KiCad._
-
