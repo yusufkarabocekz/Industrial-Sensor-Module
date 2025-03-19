@@ -27,7 +27,7 @@ The PCB layout is optimized to minimize the influence of airflow on sensor measu
 ## PCB Images
 ### Front View
 The front side of the PCB features the ESP32C3 Mini, sensor modules, and necessary components for power regulation and communication. 
-![Uploading Endüstriyel Sensör Modülü Front.png…]()
+![Endüstriyel Sensör Modülü Front](https://github.com/user-attachments/assets/663ac6fb-dd59-4e93-8a2f-02c8cf6bd400)
 
 ### Back View
 The back side of the PCB includes additional circuit traces, connectors, and protection components. 
@@ -62,4 +62,4 @@ This perspective provides a detailed look at the board's overall design, compone
 For any inquiries or contributions, feel free to open an issue or reach out.
 
 ---
-_Designed with KiCad._
+_Designed with KiCad._ Designed by Yusuf Karabocek
